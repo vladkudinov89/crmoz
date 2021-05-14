@@ -18,3 +18,9 @@ make init
 To start your containers you have only type next command:
 ```
 make docker-up
+
+And then for check app type command:
+```
+make test
+
+Create Task and Deal
